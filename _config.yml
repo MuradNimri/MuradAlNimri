@@ -1,1 +1,5 @@
-
+Title: Murad AlNimri
+#logo: Img path
+#description: Text below image
+show_downloads: False
+theme: jekyll-theme-minimal
