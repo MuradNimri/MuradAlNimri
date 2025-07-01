@@ -1,5 +1,5 @@
 title: 👋 Hi, Im Murad AlNimri
-theme: jekyll-theme-leap-day
+theme: pages-themes/midnight@v0.2.0
 logo: /assets/img/banner.png
 description: MSc Business Analytics | AI & Strategy | Data Analytics · Consulting · Insights
 show_downloads: false
