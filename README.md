@@ -1,4 +1,3 @@
-# 👋 Hi, I'm Murad Al Nimri
 
 🎓 MSc Business Analytics student at the University of Nottingham | 📊 Data + Strategy Enthusiast | 🧠 Interseted in using AI and data to derive Impactful Insights to help people and businesses succeed.
 
