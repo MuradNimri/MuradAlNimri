@@ -2,11 +2,11 @@
   <img src="Assets/img/banner.png" alt="Murad Al Nimri Banner" width="100%">
 </p>
 
-# 👋 Hi, I’m Murad Al Nimri
+# Hi, I’m Murad Al Nimri 👋
 
-🎓 MSc Business Analytics student at the University of Nottingham | 📊 Data + Strategy Enthusiast | 🧠 Interseted in using AI and data to derive Impactful Insights to help people and businesses succeed.
+🎓 MSc Business Analytics student at the University of Nottingham | 📊 Data + Strategy Enthusiast | 🧠 Intereseted in using AI and data to derive Impactful Insights for people and businesses.
 
-I combine technical tools like Python, SQL, and Power BI with a strong sense of strategy to deliver meaningful, people-first solutions. I thrive in invironments that blend analytics, communication, and leadership — whether in consulting, digital strategy, or data storytelling.
+I combine technical tools like Python, SQL with a strong sense of strategy to deliver meaningful, client-first solutions. I thrive in invironments that blend analytics, communication, and leadership — whether in consulting, digital strategy, or data storytelling.
 
 <h2 style="margin-top: 40px;">📁 Projects</h2>
 
@@ -15,7 +15,9 @@ I combine technical tools like Python, SQL, and Power BI with a strong sense of 
   <img src="Assets/img/social-media-blog.jpg.avif" alt="Brand Analysis" style="width: 100%; height: 200px; object-fit: cover;">
   <div style="padding: 15px;">
     <h3 style="margin-top: 0;">Brand Analysis Using Twitter</h3>
-    <p style="font-size: 14px;">Sentiment & influencer analysis of Nike & Lululemon on Twitter using NLP, LDA & NetworkX.</p>
+    <p style="font-size: 14px;">
+      Sentiment & influencer analysis of Nike & Lululemon on Twitter using NLP, LDA & NetworkX.
+      Project conducted for a company exploring market entry possibilities. </p>
     <a href="./projects/lululemonvsnike-report.pdf" target="_blank" style="display: inline-block; background: #007acc; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px; font-weight: bold;">More</a>
   </div>
 </div>
@@ -25,7 +27,7 @@ I combine technical tools like Python, SQL, and Power BI with a strong sense of 
   <img src="Assets/img/ML.jpeg" alt="Churn Prediction" style="width: 100%; height: 200px; object-fit: cover;">
   <div style="padding: 15px;">
     <h3 style="margin-top: 0;">Churn Prediction through Temporal Modelling</h3>
-    <p style="font-size: 14px;">XGBoost + Logistic Regression pipeline with SHAP explainability and weekly retraining.</p>
+    <p style="font-size: 14px;"> Development of a machine learning model using XGBoost and Logistic Regression pipeline with SHAP explainability and weekly retraining to predict customer churn based on behavioral patterns in transaction data, enabling proactive retention strategies through temporal trend analysis.</p>
     <a href="./projects/temporal_churn_prediction-report.pdf" target="_blank" style="display: inline-block; background: #007acc; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px; font-weight: bold;">More</a>
   </div>
 </div>
@@ -35,14 +37,15 @@ I combine technical tools like Python, SQL, and Power BI with a strong sense of 
   <img src="Assets/img/FBA.avif" alt="Customer Subscription" style="width: 100%; height: 200px; object-fit: cover;">
   <div style="padding: 15px;">
     <h3 style="margin-top: 0;">Customer Subscription Prediction</h3>
-    <p style="font-size: 14px;">Random Forest classification of subscription behavior using threshold tuning & imbalance fixes.</p>
+    <p style="font-size: 14px;">Random Forest classification to predict subscription behavior for a newly launched financial product (Platinum Card).  
+Applied threshold tuning and class imbalance techniques to align with business success metrics.
     <a href="./projects/subscription-model.pdf" target="_blank" style="display: inline-block; background: #007acc; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px; font-weight: bold;">More</a>
   </div>
 </div>
 
-## 📊 Skills & Tools
+## Skills & Tools
 
-### 💻 Languages & Tools
+### Languages & Tools
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white"/>
@@ -52,20 +55,11 @@ I combine technical tools like Python, SQL, and Power BI with a strong sense of 
   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>
 </p>
 
-### 🧠 NLP & Machine Learning
-<p>
-  <img src="https://img.shields.io/badge/VADER-4B8BBE?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/RoBERTa-6E4B87?style=for-the-badge&logo=huggingface&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Gensim-2A3236?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NetworkX-0D1117?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NLTK-397EB8?style=for-the-badge&logo=python&logoColor=white"/>
-</p>
-
-🧪 **Techniques:** Predictive Modeling · Sentiment Analysis · Emotion Detection · Topic Modeling · Micro-Influencer Detection
+**Techniques:** Predictive Modeling · Sentiment Analysis · Classification · Topic Modeling · Temporal Modeling · Supervised Learning
 
 ---
 
-### 🧰 Project & Workflow Tools
+### Project & Workflow Tools
 <p>
   <img src="https://img.shields.io/badge/Agile-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
   <img src="https://img.shields.io/badge/Gantt_Charts-7D4698?style=for-the-badge&logo=chartdotjs&logoColor=white"/>
@@ -74,7 +68,7 @@ I combine technical tools like Python, SQL, and Power BI with a strong sense of 
 
 ---
 
-### 💡 Soft Skills
+### Soft Skills
 
 <p>
   <img src="https://img.shields.io/badge/Leadership-%F0%9F%9A%80-blue?style=flat-square"/>
@@ -84,7 +78,7 @@ I combine technical tools like Python, SQL, and Power BI with a strong sense of 
   <img src="https://img.shields.io/badge/Teamwork-%F0%9F%A4%9D-blue?style=flat-square"/>
 </p>
 
-## 📚 More About Me
+## More About Me 🌱
 
 ### 🎓 Education
 - MSc., Business Analytics | The University of Nottingham at Nottingham (_September 2024 - September 2025_)
@@ -93,7 +87,7 @@ I combine technical tools like Python, SQL, and Power BI with a strong sense of 
 ### 💼 Work Experience
 
 <details>
-<summary><strong>Strategy Consultant, MSc Consultancy Competition - IBM (_May 2025 - June 2025_)</strong> (click to expand)</summary>
+<summary><strong> Strategy Consultation, MSc Consultancy Competition - IBM (_May 2025 - June 2025_)</strong> (click to expand)</summary>
 
 -	Led a cross-functional team of five in delivering a strategic consulting project for IBM SkillsBuild, applying project management and leadership skills to coordinate research, client meetings, and deliverables.
 -	Collaborated with IBM Client Engineering to co-create a strategy aligned with digital credential growth and institutional goals.
@@ -104,11 +98,11 @@ I combine technical tools like Python, SQL, and Power BI with a strong sense of 
 </details>
 
 <details>
-<summary><strong>Credit Analyst, Nottingham Advantage Award Product Challenge - Capital One,(_January 2025 - March 2025_)</strong> (click to expand)</summary>
+<summary><strong> Credit Analyst Simulation, Nottingham Advantage Award Product Challenge - Capital One,(_January 2025 - March 2025_)</strong> (click to expand)</summary>
 
-- Developed a business launch strategy for a simulated start-up scenario, applying business modelling and planning skills to design an annual operational plan under tight resource and deadline constraints.
--	Participated in Capital One HQ training sessions, strengthening analytical thinking through real-world case studies in financial modelling, data analysis, and strategic decision-making.
--	Conducted market research and SWOT analysis to assess business feasibility, using strategic planning frameworks to craft a profit-oriented growth plan focused on customer acquisition and operational efficiency.
+- Conducted credit analytics in a simulated market environment, continuously adapting our loan strategy—including APR, credit score thresholds, and approval limits—to respond to changing customer behavior and competitor moves.
+-	Participated in Capital One HQ training sessions, applying real-world financial modelling, data analysis, credit scoring principles, and strategic decision-making to optimize lending outcomes.
+-	Used market research and SWOT analysis to evaluate evolving feasibility, guiding a customer-focused lending plan that balanced profitability with risk mitigation.
   
 </details>
 
@@ -121,18 +115,21 @@ I combine technical tools like Python, SQL, and Power BI with a strong sense of 
 
 </details>
 
-## 📬 Let's Connect
+## Let's Connect! Come say Hi 😁.
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/muradnimri)
 - 📫 Email: nimrimurad@gmail.com
-- 📄 [View My CV (PDF)](./cv/Murad_Nimri_CV.pdf)  
+- 📄 [View My CV (PDF)](./projects/muradnimri-CV.pdf)  
 
 I'm open to collaboration, internships, freelance consulting, and research in analytics, wellness, tech, and social good.
 
 ---
 
 <p align="center">
-  📘 *"Data is a story — I just help you read it."*  
+   *"Whether it's reducing losses or increasing profits, I use data to make business smarter."*  
   <br>
   Thank you for visiting my portfolio!
+</p>
+<p align="center">
+  <a href="#">🔝 Back to Top</a>
 </p>
