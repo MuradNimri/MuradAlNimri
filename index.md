@@ -94,32 +94,37 @@ Applied threshold tuning and class imbalance techniques to align with business s
 ### 💼 Work Experience
 
 <details>
-<summary><strong> Strategy Consultation, MSc Consultancy Competition - IBM (_May 2025 - June 2025_)</strong> (click to expand)</summary>
+<summary><strong>Strategy Consultation, MSc Consultancy Competition – IBM (_May 2025 – June 2025_)</strong> (click to expand)</summary>
 
-- Led a cross-functional team of five in delivering a strategic consulting project for IBM SkillsBuild, applying project management and leadership skills to coordinate research, client meetings, and deliverables.  
-- Collaborated with IBM Client Engineering to co-create a strategy aligned with digital credential growth and institutional goals.  
-- Conducted stakeholder analysis and user journey mapping to identify adoption gaps, using qualitative insight with policy research to inform high-impact engagement strategies.  
-- Proposed a university-student partnership model backed by micro-credential market trends and government education policy, ensuring strategic fit and scalability.  
-- Delivered a professional final report, stakeholder-facing presentation, and detailed implementation roadmap, translating research findings into actionable co-branded campaign strategies and ROI-focused KPIs.
-
+<ul>
+  <li>Led a cross-functional team of five in delivering a strategic consulting project for IBM SkillsBuild, applying project management and leadership skills to coordinate research, client meetings, and deliverables.</li>
+  <li>Collaborated with IBM Client Engineering to co-create a strategy aligned with digital credential growth and institutional goals.</li>
+  <li>Conducted stakeholder analysis and user journey mapping to identify adoption gaps, using qualitative insight with policy research to inform high-impact engagement strategies.</li>
+  <li>Proposed a university-student partnership model backed by micro-credential market trends and government education policy, ensuring strategic fit and scalability.</li>
+  <li>Delivered a professional final report, stakeholder-facing presentation, and detailed implementation roadmap, translating research findings into actionable co-branded campaign strategies and ROI-focused KPIs.</li>
+</ul>
 
 </details>
 
 <details>
-<summary><strong> Credit Analyst Simulation, Nottingham Advantage Award Product Challenge - Capital One,(_January 2025 - March 2025_)</strong> (click to expand)</summary>
+<summary><strong>Credit Analyst Simulation, Nottingham Advantage Award Product Challenge – Capital One, (_January 2025 – March 2025_)</strong> (click to expand)</summary>
 
-- Conducted credit analytics in a simulated market environment, continuously adapting our loan strategy—including APR, credit score thresholds, and approval limits—to respond to changing customer behavior and competitor moves.
--	Participated in Capital One HQ training sessions, applying real-world financial modelling, data analysis, credit scoring principles, and strategic decision-making to optimize lending outcomes.
--	Used market research and SWOT analysis to evaluate evolving feasibility, guiding a customer-focused lending plan that balanced profitability with risk mitigation.
-  
+<ul>
+  <li>Conducted credit analytics in a simulated market environment, continuously adapting our loan strategy—including APR, credit score thresholds, and approval limits—to respond to changing customer behavior and competitor moves.</li>
+  <li>Participated in Capital One HQ training sessions, applying real-world financial modelling, data analysis, credit scoring principles, and strategic decision-making to optimize lending outcomes.</li>
+  <li>Used market research and SWOT analysis to evaluate evolving feasibility, guiding a customer-focused lending plan that balanced profitability with risk mitigation.</li>
+</ul>
+
 </details>
 
 <details>
-<summary><strong>Business Analyst Intern, BlackArrow Logistics (_May 2022 - September 2022_)</strong> (click to expand)</summary>
+<summary><strong>Business Analyst Intern, BlackArrow Logistics (_May 2022 – September 2022_)</strong> (click to expand)</summary>
 
-- Developed weekly Power BI dashboards to track logistics KPIs, applying data visualization skills to streamline operational reviews and support faster decision-making.
-- Conducted exploratory data analysis on delivery performance using Python and SQL, identifying route inefficiencies that led to a 10% improvement in delivery efficiency.
-- Collaborated with cross-functional teams to define business needs and deliver insights using data, improving stakeholder alignment and clarity on performance goals.
+<ul>
+  <li>Developed weekly Power BI dashboards to track logistics KPIs, applying data visualization skills to streamline operational reviews and support faster decision-making.</li>
+  <li>Conducted exploratory data analysis on delivery performance using Python and SQL, identifying route inefficiencies that led to a 10% improvement in delivery efficiency.</li>
+  <li>Collaborated with cross-functional teams to define business needs and deliver insights using data, improving stakeholder alignment and clarity on performance goals.</li>
+</ul>
 
 </details>
 
