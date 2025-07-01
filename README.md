@@ -12,15 +12,19 @@ I combine technical tools like Python, SQL, and Power BI with a strong sense of 
 
 ## 🚀 Featured Projects
 
-- 🟠 **Lululemon vs Nike Brand Analysis**  
+- 🟠 **Brand Analysis - Twitter**  
   NLP + NetworkX to analyze brand sentiment, emotion, and micro-influencer structure.  
   📄 [View Report (PDF)](./projects/lululemonvsnike-report.pdf)
 
 
-- 🧠 **IBM Consulting Challenge**  
-  Stakeholder analysis + roadmap for IBM SkillsBuild adoption.  
-  📄 [View Final Report](./reports/ibm_consulting_final.pdf)
+- 📈 **Churn Prediction through Temporal Modelling - Retail**  
+  Machine learning pipeline (XGBoost + Logistic Regression) to forecast customer churn with weekly retraining and SHAP explainability.  
+📄 [Read Final Report (PDF)](./projects/temporal_churn_prediction-report.pdf)
+📁 [Explore Project Files](./projects/churn_prediction-workflow.HTML)
 
+- 🧪 **Customer Subscription Prediction – N/LAB Platinum Deposit**  
+  Applied Random Forest with class imbalance handling to predict term deposit subscriptions, using business-aligned thresholds and feature insights.  
+  📄 [Read Final Report (PDF)](./projects/nlab-subscription/final_report.pdf)
 ---
 
 ## 🌐 Explore My Full Portfolio Website
