@@ -1,5 +1,6 @@
 title: Murad's Protofolio
 description: MSc Business Analytics | AI & Strategy | Data Analytics · Consulting · Insights
-theme: jekyll-theme-leap-day
+#theme: jekyll-theme-leap-day
+theme: jekyll-theme-tactile
 logo: /Assets/img/banner.png
 show_downloads: false
