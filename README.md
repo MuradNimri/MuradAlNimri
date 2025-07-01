@@ -1,6 +1,15 @@
-# Business Analytics
+# 👋 Hi, I'm Murad Al Nimri
 
-### Technical skills: Python, SQL, PowerBI, Tablueau
+🎓 MSc Business Analytics student at the University of Nottingham | 📊 Data + Strategy Enthusiast | 🧠 Interseted in using AI and data to derive Impactful Insights to help people and businesses succeed.
+
+I combine technical tools like Python, SQL, and Power BI with a strong sense of strategy to deliver meaningful, people-first solutions. I thrive in invironments that blend analytics, communication, and leadership — whether in consulting, digital strategy, or data storytelling.
+
+
+### Skills
+- **Languages & Tools:** Python (Pandas, NumPy, scikit-learn), SQL, Power BI, Tableau, Jupyter, Notion
+- **NLP & ML:** VADER, RoBERTa, Gensim (LDA), NetworkX, Sentiment Analysis, Topic Modeling
+- **Project Tools:** Agile, Gantt Charts, Stakeholder Mapping
+- **Soft Skills:** Leadership, Communication, Strategic Thinking, Problem Solving
 
 ## Education
 - MSc., Business Analytics | The University of Nottingham at Nottingham (_September 2024 - September 2025_)
@@ -25,5 +34,34 @@
 - Collaborated with cross-functional teams to define business needs and deliver insights using data, improving stakeholder alignment and clarity on performance goals.
 
 ### Projects
+### 🟠 Conversation & Network Analytics – Lululemon vs Nike (May 2025)
+*Brand perception analysis using hybrid sentiment models, topic modeling, and micro-influencer detection.*
 
-![Image](https://github.com/user-attachments/assets/e1c75066-1fa5-4cb3-9068-c66c352c86d2)
+- Cleaned and preprocessed 4,000+ tweets using `langid`, `emoji.demojize`, and custom regex filters.
+- Built a hybrid sentiment/emotion classifier combining `VADER` + `RoBERTa` to improve accuracy by 30%.
+- Applied `LDA` topic modeling and `NetworkX` for mention graphs to explore user behavior and community structure.
+- Delivered actionable strategic recommendations for brand positioning and influencer strategy.
+
+**Tools:** Python, NLTK, spaCy, Gensim, RoBERTa, VADER, Pandas, NetworkX  
+📄 [View Report](link-to-pdf-or-repo)
+
+---
+
+### 🟢 IBM Consultancy Challenge – SkillsBuild Strategy (Jun 2025)
+*Co-developed an institutional adoption strategy for IBM’s SkillsBuild platform targeting UK universities.*
+
+- Led a team of 5 to produce a market entry plan combining stakeholder research, policy review, and user journey mapping.
+- Delivered a client-ready report, KPI dashboard, and campaign roadmap.
+- Presented final strategy to IBM stakeholders.
+
+**Tools:** Strategy frameworks, Agile, Miro, Canva, Excel  
+📄 [View Report](link-to-pdf-or-repo)
+
+---
+
+## 📬 Let's Connect
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/muradnimri)
+- 📫 Email: nimrimurad@gmail.com
+
+I'm open to collaboration, internships, freelance consulting, and research in analytics, wellness, tech, and social good.
