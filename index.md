@@ -89,6 +89,8 @@ Applied threshold tuning and class imbalance techniques to align with business s
 - MSc., Business Analytics | The University of Nottingham at Nottingham (_September 2024 - September 2025_)
 - BSc., Business Information Technology | Princess Sumaya University For Technology (_September 2020 - February 2024_)
 
+---
+
 ### 💼 Work Experience
 
 <details>
@@ -119,6 +121,8 @@ Applied threshold tuning and class imbalance techniques to align with business s
 - Collaborated with cross-functional teams to define business needs and deliver insights using data, improving stakeholder alignment and clarity on performance goals.
 
 </details>
+
+---
 
 ## 🤝 Let’s Connect!
 
