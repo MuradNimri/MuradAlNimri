@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Assets/img/banner.png" alt="Murad Al Nimri GitHub Banner" width="100%">
+  <img src="Assets/img/banner2.png" alt="Murad Al Nimri GitHub Banner" width="100%">
 </p>
 
 # 👋 Hi, I'm Murad Al Nimri
