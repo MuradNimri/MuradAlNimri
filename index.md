@@ -8,43 +8,37 @@
 
 I combine technical tools like Python, SQL, and Power BI with a strong sense of strategy to deliver meaningful, people-first solutions. I thrive in invironments that blend analytics, communication, and leadership — whether in consulting, digital strategy, or data storytelling.
 
-## 📁 Projects
+<h2 style="margin-top: 40px;">📁 Projects</h2>
 
-<div style="display: flex; flex-wrap: wrap; gap: 24px; justify-content: center;">
+<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
 
   <!-- Project 1 -->
-  <div style="width: 300px; border: 1px solid #ddd; border-radius: 10px; overflow: hidden; background: #fff; box-shadow: 2px 2px 10px rgba(0,0,0,0.05); display: flex; flex-direction: column; justify-content: space-between;">
+  <div style="width: 300px; border: 1px solid #ddd; border-radius: 10px; overflow: hidden; background: #fff; box-shadow: 2px 2px 10px rgba(0,0,0,0.05);">
     <img src="Assets/img/social-media-blog.jpg.avif" alt="Brand Analysis Twitter" style="width: 100%; height: 180px; object-fit: cover;">
-    <div style="padding: 15px; flex: 1;">
+    <div style="padding: 15px;">
       <h3 style="margin-top: 0;">Brand Analysis Using Twitter</h3>
       <p style="font-size: 14px;">Sentiment and social network analysis of Nike & Lululemon Twitter activity. NLP, emotion detection, influencer mapping via LDA and NetworkX.</p>
-    </div>
-    <div style="padding: 0 15px 15px;">
-      <a href="./projects/lululemonvsnike-report.pdf" target="_blank" style="display: inline-block; text-align: center; font-weight: bold; background: #007acc; color: white; padding: 10px 20px; border-radius: 6px; text-decoration: none; transition: background 0.3s ease;">More</a>
+      <a href="./projects/lululemonvsnike-report.pdf" target="_blank" style="display: inline-block; margin-top: 10px; background-color: #007acc; color: white; padding: 8px 16px; text-decoration: none; border-radius: 5px; font-weight: bold;">More</a>
     </div>
   </div>
 
   <!-- Project 2 -->
-  <div style="width: 300px; border: 1px solid #ddd; border-radius: 10px; overflow: hidden; background: #fff; box-shadow: 2px 2px 10px rgba(0,0,0,0.05); display: flex; flex-direction: column; justify-content: space-between;">
+  <div style="width: 300px; border: 1px solid #ddd; border-radius: 10px; overflow: hidden; background: #fff; box-shadow: 2px 2px 10px rgba(0,0,0,0.05);">
     <img src="Assets/img/ML.jpeg" alt="Churn Prediction" style="width: 100%; height: 180px; object-fit: cover;">
-    <div style="padding: 15px; flex: 1;">
+    <div style="padding: 15px;">
       <h3 style="margin-top: 0;">Churn Prediction through Temporal Modelling</h3>
       <p style="font-size: 14px;">XGBoost + Logistic Regression pipeline for churn prediction with SHAP explainability and weekly retraining simulation.</p>
-    </div>
-    <div style="padding: 0 15px 15px;">
-      <a href="./projects/temporal_churn_prediction-report.pdf" target="_blank" style="display: inline-block; text-align: center; font-weight: bold; background: #007acc; color: white; padding: 10px 20px; border-radius: 6px; text-decoration: none; transition: background 0.3s ease;">More</a>
+      <a href="./projects/temporal_churn_prediction-report.pdf" target="_blank" style="display: inline-block; margin-top: 10px; background-color: #007acc; color: white; padding: 8px 16px; text-decoration: none; border-radius: 5px; font-weight: bold;">More</a>
     </div>
   </div>
 
   <!-- Project 3 -->
-  <div style="width: 300px; border: 1px solid #ddd; border-radius: 10px; overflow: hidden; background: #fff; box-shadow: 2px 2px 10px rgba(0,0,0,0.05); display: flex; flex-direction: column; justify-content: space-between;">
+  <div style="width: 300px; border: 1px solid #ddd; border-radius: 10px; overflow: hidden; background: #fff; box-shadow: 2px 2px 10px rgba(0,0,0,0.05);">
     <img src="Assets/img/FBA.avif" alt="Customer Subscription" style="width: 100%; height: 180px; object-fit: cover;">
-    <div style="padding: 15px; flex: 1;">
+    <div style="padding: 15px;">
       <h3 style="margin-top: 0;">Customer Subscription Prediction</h3>
       <p style="font-size: 14px;">Random Forest model predicting term deposit subscription, with class imbalance handling and cost-benefit threshold tuning.</p>
-    </div>
-    <div style="padding: 0 15px 15px;">
-      <a href="./projects/subscription-model.pdf" target="_blank" style="display: inline-block; text-align: center; font-weight: bold; background: #007acc; color: white; padding: 10px 20px; border-radius: 6px; text-decoration: none; transition: background 0.3s ease;">More</a>
+      <a href="./projects/subscription-model.pdf" target="_blank" style="display: inline-block; margin-top: 10px; background-color: #007acc; color: white; padding: 8px 16px; text-decoration: none; border-radius: 5px; font-weight: bold;">More</a>
     </div>
   </div>
 
