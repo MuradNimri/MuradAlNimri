@@ -17,7 +17,8 @@ I combine technical tools like Python, SQL with a strong sense of strategy to de
     <h3 style="margin-top: 0;">Brand Analysis Using Twitter</h3>
     <p style="font-size: 14px;">
       Sentiment & influencer analysis of Nike & Lululemon on Twitter using NLP, LDA & NetworkX.
-      Project conducted for a company exploring market entry possibilities. </p>
+      Project conducted for a company exploring market entry possibilities.
+    </p>
     <a href="./projects/lululemonvsnike-report.pdf" target="_blank" style="display: inline-block; background: #007acc; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px; font-weight: bold;">More</a>
   </div>
 </div>
@@ -27,7 +28,9 @@ I combine technical tools like Python, SQL with a strong sense of strategy to de
   <img src="Assets/img/ML.jpeg" alt="Churn Prediction" style="width: 100%; height: 200px; object-fit: cover;">
   <div style="padding: 15px;">
     <h3 style="margin-top: 0;">Churn Prediction through Temporal Modelling</h3>
-    <p style="font-size: 14px;"> Development of a machine learning model using XGBoost and Logistic Regression pipeline with SHAP explainability and weekly retraining to predict customer churn based on behavioral patterns in transaction data, enabling proactive retention strategies through temporal trend analysis.</p>
+    <p style="font-size: 14px;">
+      Development of a machine learning model using XGBoost and Logistic Regression pipeline with SHAP explainability and weekly retraining to predict customer churn based on behavioral patterns in transaction data, enabling proactive retention strategies through temporal trend analysis.
+    </p>
     <a href="./projects/temporal_churn_prediction-report.pdf" target="_blank" style="display: inline-block; background: #007acc; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px; font-weight: bold;">More</a>
   </div>
 </div>
@@ -37,8 +40,10 @@ I combine technical tools like Python, SQL with a strong sense of strategy to de
   <img src="Assets/img/FBA.avif" alt="Customer Subscription" style="width: 100%; height: 200px; object-fit: cover;">
   <div style="padding: 15px;">
     <h3 style="margin-top: 0;">Customer Subscription Prediction</h3>
-    <p style="font-size: 14px;">Random Forest classification to predict subscription behavior for a newly launched financial product (Platinum Card).  
+    <p style="font-size: 14px;">
+      Random Forest classification to predict subscription behavior for a newly launched financial product (Platinum Card).  
 Applied threshold tuning and class imbalance techniques to align with business success metrics.
+    </p>
     <a href="./projects/subscription-model.pdf" target="_blank" style="display: inline-block; background: #007acc; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px; font-weight: bold;">More</a>
   </div>
 </div>
