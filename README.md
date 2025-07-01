@@ -22,9 +22,9 @@ I combine technical tools like Python, SQL, and Power BI with a strong sense of 
 📄 [Read Final Report (PDF)](./projects/temporal_churn_prediction-report.pdf)
 📁 [Explore Project Files](./projects/churn_prediction-workflow.HTML)
 
-- 🧪 **Customer Subscription Prediction – N/LAB Platinum Deposit**  
+- 🧪 **Customer Subscription Prediction**
   Applied Random Forest with class imbalance handling to predict term deposit subscriptions, using business-aligned thresholds and feature insights.  
-  📄 [Read Final Report (PDF)](./projects/nlab-subscription/final_report.pdf)
+  📄 [Read Final Report (PDF)](./projects/subscription-model.pdf)
 ---
 
 ## 🌐 Explore My Full Portfolio Website
