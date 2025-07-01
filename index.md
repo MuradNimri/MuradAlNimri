@@ -8,14 +8,6 @@
 
 I combine technical tools like Python, SQL, and Power BI with a strong sense of strategy to deliver meaningful, people-first solutions. I thrive in invironments that blend analytics, communication, and leadership — whether in consulting, digital strategy, or data storytelling.
 
-  ## 📂 Quick Navigation
-- [Lululemon vs Nike Brand Analysis](#lululemon-vs-nike-brand-analysis)
-- [IBM Consulting Challenge](#ibm-consulting-challenge)
-- [Capital One Product Strategy Simulation](#capital-one-product-strategy-simulation)
-- [Skills & Tools](#skills--tools)
-- [More About Me](#more-about-me)
-- [Let's Connect](#lets-connect)
-
 ## 🚀 Projects
 ### 🟠 Lululemon vs Nike Brand Analysis
 
