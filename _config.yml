@@ -1,5 +1,5 @@
-Title: Murad AlNimri
-#logo: Img path
-#description: Text below image
-show_downloads: False
-theme: jekyll-theme-minimal
+title: Murad Al Nimri
+theme: jekyll-theme-cayman
+logo: ![Image](https://github.com/user-attachments/assets/e1c75066-1fa5-4cb3-9068-c66c352c86d2)
+description: MSc Business Analytics | AI & Strategy | NLP · Consulting · Insights
+show_downloads: false
