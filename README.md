@@ -14,8 +14,7 @@ I combine technical tools like Python, SQL, and Power BI with a strong sense of 
 
 - 🟠 **Lululemon vs Nike Brand Analysis**  
   NLP + NetworkX to analyze brand sentiment, emotion, and micro-influencer structure.  
-  📄 [View Report (DOCX)](./projects/LululemonVsNike-report.docx)  
-  🌐 [View Notebook (HTML)](./projects/ASA_Workflow.ipynb)
+  📄 [View Report (PDF)](./projects/lululemonvsnike-report.pdf)
 
 
 - 🧠 **IBM Consulting Challenge**  
