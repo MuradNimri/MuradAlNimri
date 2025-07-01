@@ -9,10 +9,10 @@
 I combine technical tools like Python, SQL, and Power BI with a strong sense of strategy to deliver meaningful, people-first solutions. I thrive in invironments that blend analytics, communication, and leadership — whether in consulting, digital strategy, or data storytelling.
 
 ## 🚀 Projects
-### 🟠 Lululemon vs Nike Brand Analysis
+### 🟠 Brand Analysis on Twitter
 
-**📝 Project Type:** NLP & Network Analytics  
-**🎯 Goal:** Analyze public perception and emotional engagement for market entry recommendations.
+**📝 Project Type:** NLP & Network Analytics
+**🎯 Goal:** Analyze public perception and emotional engagement for market entry consultation.
 
 ![Emotion Heatmap](images/emotion_topic_heatmap.png)
 
