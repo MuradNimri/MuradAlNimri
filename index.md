@@ -8,48 +8,47 @@
 
 I combine technical tools like Python, SQL, and Power BI with a strong sense of strategy to deliver meaningful, people-first solutions. I thrive in invironments that blend analytics, communication, and leadership — whether in consulting, digital strategy, or data storytelling.
 
-## 🚀 Projects
-### 🟠 Brand Analysis on Twitter
+## 📁 Projects
 
-**📝 Project Type:** NLP & Network Analytics
-**🎯 Goal:** Analyze public perception and emotional engagement for market entry consultation.
+<div style="display: flex; flex-wrap: wrap; gap: 24px; justify-content: center;">
 
-![Emotion Heatmap](images/emotion_topic_heatmap.png)
+  <!-- Project 1 -->
+  <div style="width: 300px; border: 1px solid #ddd; border-radius: 10px; overflow: hidden; background: #fff; box-shadow: 2px 2px 10px rgba(0,0,0,0.05); display: flex; flex-direction: column; justify-content: space-between;">
+    <img src="Assets/img/social-media-blog.jpg.avif" alt="Brand Analysis Twitter" style="width: 100%; height: 180px; object-fit: cover;">
+    <div style="padding: 15px; flex: 1;">
+      <h3 style="margin-top: 0;">Brand Analysis Using Twitter</h3>
+      <p style="font-size: 14px;">Sentiment and social network analysis of Nike & Lululemon Twitter activity. NLP, emotion detection, influencer mapping via LDA and NetworkX.</p>
+    </div>
+    <div style="padding: 0 15px 15px;">
+      <a href="./projects/lululemonvsnike-report.pdf" target="_blank" style="display: inline-block; text-align: center; font-weight: bold; background: #007acc; color: white; padding: 10px 20px; border-radius: 6px; text-decoration: none; transition: background 0.3s ease;">More</a>
+    </div>
+  </div>
 
-> Developed a hybrid sentiment model (VADER + RoBERTa) to correct 1,600+ mislabelled tweets, applied topic modeling (LDA), and built directed user graphs to understand influencer dynamics and community structure.
+  <!-- Project 2 -->
+  <div style="width: 300px; border: 1px solid #ddd; border-radius: 10px; overflow: hidden; background: #fff; box-shadow: 2px 2px 10px rgba(0,0,0,0.05); display: flex; flex-direction: column; justify-content: space-between;">
+    <img src="Assets/img/ML.jpeg" alt="Churn Prediction" style="width: 100%; height: 180px; object-fit: cover;">
+    <div style="padding: 15px; flex: 1;">
+      <h3 style="margin-top: 0;">Churn Prediction through Temporal Modelling</h3>
+      <p style="font-size: 14px;">XGBoost + Logistic Regression pipeline for churn prediction with SHAP explainability and weekly retraining simulation.</p>
+    </div>
+    <div style="padding: 0 15px 15px;">
+      <a href="./projects/temporal_churn_prediction-report.pdf" target="_blank" style="display: inline-block; text-align: center; font-weight: bold; background: #007acc; color: white; padding: 10px 20px; border-radius: 6px; text-decoration: none; transition: background 0.3s ease;">More</a>
+    </div>
+  </div>
 
-### Key Highlights:
-- 📌 Cleaned and processed 4,000+ tweets with regex, emoji demojization, and custom stopwords.
-- 💡 Reclassified sentiment using emotion overlay logic to detect sarcasm and misclassification.
-- 🧠 Modeled engagement networks using `NetworkX`, visualizing community depth and user importance.
-- 🤝 Identified high-potential micro-influencers using sentiment, engagement, and follower quality.
+  <!-- Project 3 -->
+  <div style="width: 300px; border: 1px solid #ddd; border-radius: 10px; overflow: hidden; background: #fff; box-shadow: 2px 2px 10px rgba(0,0,0,0.05); display: flex; flex-direction: column; justify-content: space-between;">
+    <img src="Assets/img/FBA.avif" alt="Customer Subscription" style="width: 100%; height: 180px; object-fit: cover;">
+    <div style="padding: 15px; flex: 1;">
+      <h3 style="margin-top: 0;">Customer Subscription Prediction</h3>
+      <p style="font-size: 14px;">Random Forest model predicting term deposit subscription, with class imbalance handling and cost-benefit threshold tuning.</p>
+    </div>
+    <div style="padding: 0 15px 15px;">
+      <a href="./projects/subscription-model.pdf" target="_blank" style="display: inline-block; text-align: center; font-weight: bold; background: #007acc; color: white; padding: 10px 20px; border-radius: 6px; text-decoration: none; transition: background 0.3s ease;">More</a>
+    </div>
+  </div>
 
-**🔧 Tools:** Python, Pandas, spaCy, Gensim, RoBERTa, VADER, NLTK, NetworkX
-
-📄 [Read the Full Report (PDF)](./reports/lululemon_final_report.pdf)  
-📁 [View Project Repository](https://github.com/yourusername/lululemon-nike-analysis)
-
----
-
-### 🧠 IBM Consulting Challenge
-
-**📝 Project Type:** Strategy Consulting  
-**🎯 Goal:** Increase adoption of IBM SkillsBuild credentials in UK universities.
-
-![Strategy Funnel](images/ibm_funnel.png)
-
-> Led a 5-member consulting team to deliver stakeholder-driven insights, strategic positioning, and a full implementation roadmap for IBM.
-
-### Key Highlights:
-- 🧭 Conducted stakeholder analysis, user journey mapping, and policy review.
-- 📈 Developed KPIs and ROI-focused success metrics.
-- 🗣️ Delivered final presentation to IBM client engineering and academic partners.
-
-**🔧 Tools:** Agile, Miro, Canva, Excel, Strategic Frameworks
-
-📄 [Read the Final Report (PDF)](./reports/ibm_consulting_final.pdf)
-
----
+</div>
 
 ## 📊 Skills & Tools
 
