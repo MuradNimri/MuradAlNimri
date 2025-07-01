@@ -96,11 +96,12 @@ Applied threshold tuning and class imbalance techniques to align with business s
 <details>
 <summary><strong> Strategy Consultation, MSc Consultancy Competition - IBM (_May 2025 - June 2025_)</strong> (click to expand)</summary>
 
--	Led a cross-functional team of five in delivering a strategic consulting project for IBM SkillsBuild, applying project management and leadership skills to coordinate research, client meetings, and deliverables.
--	Collaborated with IBM Client Engineering to co-create a strategy aligned with digital credential growth and institutional goals.
--	Conducted stakeholder analysis and user journey mapping to identify adoption gaps, using qualitative insight with policy research to inform high-impact engagement strategies.
--	Proposed a university-student partnership model backed by micro-credential market trends and government education policy, ensuring strategic fit and scalability.
--	Delivered a professional final report, stakeholder-facing presentation, and detailed implementation roadmap, translating research findings into actionable co-branded campaign strategies and ROI-focused KPIs.
+- Led a cross-functional team of five in delivering a strategic consulting project for IBM SkillsBuild, applying project management and leadership skills to coordinate research, client meetings, and deliverables.  
+- Collaborated with IBM Client Engineering to co-create a strategy aligned with digital credential growth and institutional goals.  
+- Conducted stakeholder analysis and user journey mapping to identify adoption gaps, using qualitative insight with policy research to inform high-impact engagement strategies.  
+- Proposed a university-student partnership model backed by micro-credential market trends and government education policy, ensuring strategic fit and scalability.  
+- Delivered a professional final report, stakeholder-facing presentation, and detailed implementation roadmap, translating research findings into actionable co-branded campaign strategies and ROI-focused KPIs.
+
 
 </details>
 
