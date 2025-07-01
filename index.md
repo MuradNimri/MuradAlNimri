@@ -120,18 +120,30 @@ Applied threshold tuning and class imbalance techniques to align with business s
 
 </details>
 
-## Let's Connect! Come say Hi 😁.
+## 🤝 Let’s Connect!
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/muradnimri)
-- 📫 Email: nimrimurad@gmail.com
-- 📄 [View My CV (PDF)](./projects/muradnimri-CV.pdf)  
+I’m always excited to meet curious minds, share ideas, and explore new opportunities. Whether you're interested in data, tech, wellness, or simply want to chat about cool projects — I’d love to hear from you.
 
-I'm open to collaboration, internships, freelance consulting, and research in analytics, wellness, tech, and social good.
+<p>
+  <a href="https://www.linkedin.com/in/muradnimri" target="_blank" style="text-decoration: none; margin-right: 10px;">
+    <img src="https://img.shields.io/badge/Connect_on-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  
+  <a href="mailto:nimrimurad@gmail.com" style="text-decoration: none; margin-right: 10px;">
+    <img src="https://img.shields.io/badge/Email-Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  
+  <a href="./projects/muradnimri-CV.pdf" target="_blank" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/View-CV-0A0A0A?style=for-the-badge&logo=readcv&logoColor=white" alt="View CV"/>
+  </a>
+</p>
+
+> 💡 *Open to collaborations, Full-Time Jobs, freelance analytics work, or research in tech, wellness, and social good.*
 
 ---
 
 <p align="center">
-   *"Whether it's reducing losses or increasing profits, I use data to make business smarter."*  
+   *"Whether it's reducing losses or increasing profits, I use data to make business smarter & make an impact."*  
   <br>
   Thank you for visiting my portfolio!
 </p>
